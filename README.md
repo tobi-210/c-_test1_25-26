@@ -164,6 +164,3 @@ public void set_age(uint age)
 | **Structs (Werttypen)**           | Alle Felder auf ihre Default-Werte gesetzt | `MyStruct s = default(MyStruct);` |
 | `DateTime`                        | `01.01.0001 00:00:00`                      | `DateTime dt = default;`          |
 | `object`                          | `null`                                     | `object o; // o == null`          |
-
-```
-
