@@ -1,7 +1,6 @@
-Alles klar! Hier ist dein **komplettes README.md** als ein zusammenhängendes Dokument, bereit zum Einfügen in GitHub:
+# c-_test1_25-26
 
 ````markdown
-# c-_test1_25-26
 
 Dieses Projekt enthält Beispiele für Klassen, Objekte, statische Klassen, Konstruktoren, Getter/Setter und die Standardwerte von Datentypen in C#.
 
@@ -168,9 +167,3 @@ public void set_age(uint age)
 
 ```
 
----
-
-Wenn du willst, kann ich auch noch ein **Inhaltsverzeichnis** und **kurze Erklärung zu den Klassen** direkt im README einbauen, damit es richtig professionell aussieht.  
-
-Willst du, dass ich das mache?
-```
